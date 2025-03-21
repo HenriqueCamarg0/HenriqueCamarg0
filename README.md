@@ -1,7 +1,7 @@
 ### Hi there 👋 ! Eu sou o Henrique Camargo
 
 - 🔭 Atualmente, estou me especializando em Frontend e Backend.  
-- 🌱 Sou formado em Análise e Desenvolvimento de Sistemas e atualmente participo de bootcamps voltados para Cloud, AI e Java. Recentemente, participei de uma imersão Frontend onde recriei a página inicial do Spotify e recebi o desafio de reconstruí-la utilizando o framework Angular. O repositório do projeto em andamento pode ser acessado no meu [GitHub](https://github.com/henry1end).  
+- 🌱 Sou formado em Análise e Desenvolvimento de Sistemas e atualmente participo de bootcamps voltados para Cloud, AI e Java. Recentemente, participei de uma imersão Frontend onde recriei a página inicial do Spotify e recebi o desafio de reconstruí-la utilizando o framework Angular. 
 
 <div align="center">
   <a href="https://github.com/HenriqueCamarg0">
